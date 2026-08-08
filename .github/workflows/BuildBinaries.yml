@@ -183,3 +183,5 @@ jobs:
       with:
         name: NanaZip_Mainline_DebugSymbols
         path: Output/Binaries/Root/Symbols
+
+# Workflow trigger verification
